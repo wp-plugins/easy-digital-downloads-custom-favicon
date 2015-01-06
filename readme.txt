@@ -36,8 +36,5 @@ None yet
 
 == Changelog ==
 
-= Version 1.0.1 - 07/01/2015 =
-* Code refacter
-
 = Version 1.0.0 - 06/01/2015 =
 * Initial release
