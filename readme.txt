@@ -3,7 +3,7 @@ Contributors: Dev1, Dev2
 Tags: Easy Digital Downloads, EDD, favicon, custom favicon, dynamic icon
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0
 
 Adds a dynamically updated favicon to Easy Digital Downloads. Displays how many items are in your cart in the favicon just like Gmail!
 
