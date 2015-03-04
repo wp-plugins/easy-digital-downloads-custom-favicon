@@ -1,5 +1,5 @@
 === Easy Digital Downloads - Custom Favicon ===
-Contributors: Dev1, Dev2
+Contributors: Intelligent Technology
 Tags: Easy Digital Downloads, EDD, favicon, custom favicon, dynamic icon
 Requires at least: 3.0
 Tested up to: 4.1
@@ -28,7 +28,8 @@ None yet
 
 == Screenshots ==
 
-1. Configuration
+1. Configuration.
+2. Favicon.
 
 == Changelog ==
 
